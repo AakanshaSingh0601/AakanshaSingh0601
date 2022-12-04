@@ -1,4 +1,4 @@
-### Hola, I'm Aakansha Singh👋
+### Hello, I'm Aakansha Singh👋
 
 - 🔭 I’m currently working on BlockChain Project
 - 🌱 I’m currently learning Java DSA
